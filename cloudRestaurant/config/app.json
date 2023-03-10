@@ -1,0 +1,26 @@
+{
+  "app_name": "cloudrestaurant",
+  "app_mode": "debug",
+  "app_host": "localhost",
+  "app_port": "8090",
+  "sms": {
+    "sign_name": "w111",
+    "template_code": "SMS_272505663",
+    "app_key":"LTAI5t93T4qj89bi6qpRhzaJ",
+    "app_secret": "EOf7JrXmHYSyUJjJ6O5QcC7ajXkeKk",
+    "region_id": "cn-hangzhou"
+  },
+  "database": {
+    "user": "root",
+    "password": "wyf20040305...",
+    "host": "192.168.187.128",
+    "port": "3306",
+    "name": "cloudr"
+  },
+  "redis_config":{
+    "addr": "127.0.0.1",
+    "port": "6379",
+    "password": "",
+    "db": 0
+  }
+}
