@@ -4,11 +4,7 @@
   "app_host": "localhost",
   "app_port": "8090",
   "sms": {
-    "sign_name": "w111",
-    "template_code": "SMS_272505663",
-    "app_key":"LTAI5t93T4qj89bi6qpRhzaJ",
-    "app_secret": "EOf7JrXmHYSyUJjJ6O5QcC7ajXkeKk",
-    "region_id": "cn-hangzhou"
+  
   },
   "database": {
     "user": "root",
