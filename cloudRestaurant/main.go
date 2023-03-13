@@ -29,7 +29,7 @@ func main() {
 	//
 	tool.InitSession(app)
 	registerRouter(app)
-
+	//
 	app.Run(cfg.AppHost + ":" + cfg.AppPort)
 }
 
